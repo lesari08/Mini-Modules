@@ -19,7 +19,6 @@ to the merger and to get the next element from the merged stream.
 
 using namespace std;
 
-
 class StreamMerger
 {
 public:
